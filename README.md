@@ -1,6 +1,6 @@
 I am:
-   not real
-   funny
-   a person
+   not real,
+   funny,
+   and a person
 
 that's about it
